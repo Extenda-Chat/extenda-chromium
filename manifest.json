@@ -5,6 +5,6 @@
   "manifest_version": 3,
   "action": {
     "default_popup": "thavel.html",
-    "default_icon": "icons/extenda-logo.png"
+    "default_icon": "icons/Extenda-Default.png"
   }
 }
