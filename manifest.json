@@ -1,0 +1,10 @@
+{
+  "name": "Extenda Chat",
+  "description": "Chat right in your browser",
+  "version": "pre-alpha",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "thavel.html",
+    "default_icon": "icons/extenda-logo.png"
+  }
+}
