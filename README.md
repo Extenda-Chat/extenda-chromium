@@ -3,6 +3,8 @@
 Extenda Chat for chromium-based browsers
 <hr>
 ## How to install
+<br>
+
 1. Download this repository as a .zip archive
 2. Unzip the archive into a desired folder
 3. Follow instructions from [the chrome developers website](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
