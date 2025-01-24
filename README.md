@@ -1,11 +1,8 @@
 # extenda-chromium
 <img src="https://raw.githubusercontent.com/Extenda-Chat/extenda-chromium/main/assets/images/logos/Extenda-Banner-large.png" />
 Extenda Chat for chromium-based browsers
-<hr>
 
 ## How to install
-
-<br>
 
 1. Download this repository as a .zip archive
 2. Unzip the archive into a desired folder
